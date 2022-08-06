@@ -25,7 +25,7 @@ Our Facilities
       </h2>
       <div class="h-line bg-dark"> </div>
      
-        <p>
+        <p class="text-center mt-3">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aut alias ea eum quo aliquid, perspiciatis neque numquam necessitatibus, similique unde maiores accusamus veniam molestias modi delectus totam debitis vero facere.
         </p>  
    </div>
