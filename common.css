@@ -35,7 +35,7 @@ input[type=number] {
     border-color:var(--teal_hover);
 }
 
-.aline{
+.h-line{
     width: 150px;
     margin: 0 auto;
     height: 1.7px;

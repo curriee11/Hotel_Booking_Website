@@ -23,7 +23,7 @@
       <h2 class="fw-bold h-font text-center">
 Our Facilities
       </h2>
-      <div class="aline bg-dark"> </div>
+      <div class="h-line bg-dark"> </div>
      
         <p>
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aut alias ea eum quo aliquid, perspiciatis neque numquam necessitatibus, similique unde maiores accusamus veniam molestias modi delectus totam debitis vero facere.
