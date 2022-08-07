@@ -11,8 +11,14 @@
     <title>TJ Hotel-Facilities</title>
    
     <?php require('inc/links.php');?>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css" />
-    
+   
+    <style>
+        .pop:hover{
+            border-top-color: var(--teal) !important;
+            transform:scale(1.03);
+            transition:all 0.3s;
+        }
+    </style>  
 </head>
 
 <body class="bg-light">
@@ -26,22 +32,99 @@ Our Facilities
       <div class="h-line bg-dark"> </div>
      
         <p class="text-center mt-3">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aut alias ea eum quo aliquid, perspiciatis neque numquam necessitatibus, similique unde maiores accusamus veniam molestias modi delectus totam debitis vero facere.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> Neque omnis provident numquam vel iste. Nulla, earum illo! Laborum, a ut!
         </p>  
    </div>
 
+   <div class="container">
+    <div class="row">
+        <div class="col-lg-4 col-md-6 mb-5 px-4">
+            <div class="bg-white rounded shadow p-4 border-top border-4 border-dark pop" >
+                <div class="d-flex align-items-center mb-2">
+                    <img src="Images/facilities/IMG_43553.svg" width="40px">      
+                    <h5 class="m-0 ms-3">
+                        Wifi
+                    </h5>
+                </div>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque totam architecto sed voluptatibus placeat, voluptas suscipit.
+                </p>
+            </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 mb-5 px-4">
+            <div class="bg-white rounded shadow p-4 border-top border-4 border-dark pop" >
+                <div class="d-flex align-items-center mb-2">
+                    <img src="Images/facilities/IMG_43553.svg" width="40px">      
+                    <h5 class="m-0 ms-3">
+                        Wifi
+                    </h5>
+                </div>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque totam architecto sed voluptatibus placeat, voluptas suscipit.
+                </p>
+            </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 mb-5 px-4">
+            <div class="bg-white rounded shadow p-4 border-top border-4 border-dark pop" >
+                <div class="d-flex align-items-center mb-2">
+                    <img src="Images/facilities/IMG_43553.svg" width="40px">      
+                    <h5 class="m-0 ms-3">
+                        Wifi
+                    </h5>
+                </div>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque totam architecto sed voluptatibus placeat, voluptas suscipit.
+                </p>
+            </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 mb-5 px-4">
+            <div class="bg-white rounded shadow p-4 border-top border-4 border-dark pop" >
+                <div class="d-flex align-items-center mb-2">
+                    <img src="Images/facilities/IMG_43553.svg" width="40px">      
+                    <h5 class="m-0 ms-3">
+                        Wifi
+                    </h5>
+                </div>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque totam architecto sed voluptatibus placeat, voluptas suscipit.
+                </p>
+            </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 mb-5 px-4">
+            <div class="bg-white rounded shadow p-4 border-top border-4 border-dark pop" >
+                <div class="d-flex align-items-center mb-2">
+                    <img src="Images/facilities/IMG_43553.svg" width="40px">      
+                    <h5 class="m-0 ms-3">
+                        Wifi
+                    </h5>
+                </div>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque totam architecto sed voluptatibus placeat, voluptas suscipit.
+                </p>
+            </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 mb-5 px-4">
+            <div class="bg-white rounded shadow p-4 border-top border-4 border-dark pop" >
+                <div class="d-flex align-items-center mb-2">
+                    <img src="Images/facilities/IMG_43553.svg" width="40px">      
+                    <h5 class="m-0 ms-3">
+                        Wifi
+                    </h5>
+                </div>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque totam architecto sed voluptatibus placeat, voluptas suscipit.
+                </p>
+            </div>
+        </div>
+    </div>
+   </div>
     
-
-
     <?php require('inc/footer.php');?>
-
-
-
-
-
-    
-
-
 
 </body>
 
