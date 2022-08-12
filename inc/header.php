@@ -69,7 +69,7 @@
                         </div>
                         <div class="mb-4">
                             <label class="form-label">Password</label>
-                            <input type="email" class="form-control shadow-none" id="exampleInputEmail1"
+                            <input type="password" class="form-control shadow-none" id="exampleInputEmail1"
                                 aria-describedby="emailHelp">
 
                         </div>
